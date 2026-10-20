@@ -1,5 +1,5 @@
 ---
-title: News Risk Classifier
+title: News Triage
 description: Extract company news and classify articles for company risk with Microsoft Foundry.
 ---
 
